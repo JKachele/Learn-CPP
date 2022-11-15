@@ -21,8 +21,5 @@ int main() {
 
     std::cout << "Vector: " << Math::toString(vector) << std::endl;
 
-    Vector3 vec = nullptr;
-
-
 	return 0;
 }
