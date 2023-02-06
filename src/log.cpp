@@ -6,7 +6,7 @@
 ******************************************/
 #include <iostream>
 #include <cstdarg>
-#include "Log.h"
+#include "log.h"
 
 void logInternal(const char *file, int line, const char *format, ...) {
     std::cout << file << ":Line# " << line << std::endl;

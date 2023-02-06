@@ -6,9 +6,9 @@
  ******************************************/
 #include <iostream>
 
-#include "Math.h"
-#include "Log.h"
-#include "Vector.h"
+#include "math.h"
+#include "log.h"
+#include "vector.h"
 
 int main() {
     std::cout << "Add 1 and 2: " << add(1, 2) << std::endl;

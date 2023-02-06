@@ -6,7 +6,7 @@
 ******************************************/
 #include <iostream>
 #include <sstream>
-#include "Vector.h"
+#include "vector.h"
 
 namespace Math {
     void initialize(Vector2* vector) {

@@ -1,0 +1,1 @@
+{"cmake":{"args":{"configure":["-D","CMAKE_EXPORT_COMPILE_COMMANDS=1","-G","Ninja"]},"dap_name":"lldb","build_dir":"{cwd}\/build\/{os}-{build_type}","target":"Learn_CPP","cmd":"cmake","build_type":"Debug"},"cargo":{"dap_name":"lldb"}}

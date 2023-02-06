@@ -5,7 +5,7 @@
  *License-------GNU GENERAL PUBLIC LICENSE
 ******************************************/
 #include <iostream>
-#include "Math.h"
+#include "math.h"
 
 int add(int a, int b) {
     return a + b;
